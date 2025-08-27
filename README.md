@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Система автоматизации учета недвижимости
 
 <div align="center">
@@ -278,3 +279,6 @@ MaksDiplom/
 Made with ❤️ for education
 
 </div>
+=======
+# MaksDiplom
+>>>>>>> f620ced63ce9a569267fd227e1e3ea77aae6d373
