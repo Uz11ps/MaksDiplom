@@ -1,0 +1,55 @@
+# Конфигурационные файлы с паролями
+config/database.php
+
+# Установщик (должен быть удален после установки)
+config/install.php
+install.php
+
+# Загруженные файлы
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.htaccess
+.htpasswd
+
+# Кэш
+cache/
+tmp/
+
+# Бэкапы
+*.bak
+*.backup
+*.sql
+
+# Composer (если используется)
+vendor/
+composer.lock
+
+# Node modules (если используется)
+node_modules/
+package-lock.json
+
+# Переменные окружения
+.env
+.env.local
+.env.production
